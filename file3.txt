@@ -1,3 +1,5 @@
  this is File3
+editing from Git
+ Editinngg from feature branch
 edited from Git
  Editing from feature branch
